@@ -4,7 +4,7 @@
 
 1. **Installed Wireshark** on Windows.
 2. **Captured traffic** using active interface (`wlan0`).
-3. **Generated traffic** by browsing and pinging (`ping google.com`, opened example websites).
+3. **Generated traffic** by browsing and pinging (`ping youtube.com`, opened example websites).
 4. **Stopped capture** after about 1 minute.
 5. **Used filters** like `http`, `dns`, `tcp`, `icmp`, `quic` to analyze traffic.
 6. **Saved the session** as `Packet_analysis.pcap`.
